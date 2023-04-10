@@ -1,14 +1,14 @@
 ## Data Science Topics
 
-1.Graph using python Libraries
+### 1.Graph using python Libraries
 
-  --MatplotLib
+    --MatplotLib
   
-  --Seaborn
+    --Seaborn
   
-  --Plotly
+    --Plotly
   
-2.EDA and Feature Engineering
+### 2.EDA and Feature Engineering
 
 
 
