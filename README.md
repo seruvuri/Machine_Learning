@@ -12,15 +12,18 @@
     In EDA we do the following:
     
         --Missing values
+        
+        --relationship between independent and dependent features.
+              ->Realtion between missing value and target value.
 
-        --All the numerical variables
-
+        --All the numerical variables.
+        
         --Distribution of the numerical variables.
+            ->Discrete numerical features.
+            ->Continuous numerical features.
 
         --categorical variables.
 
         --outliers.
-
-        --relationship between independent and dependent features
 
 
