@@ -37,4 +37,11 @@
         ---3.Handling categorical Vraiables: Remove rare labels.
         
         ---4.Standardize the value of variable to the same range.
+        
+### Machine Learning Algorithms
+#### Supervised Learning 
 
+       ---1. Linear Regression 
+       ---2. Ridge Regression(L2 regulization)
+       ---3. Lasso Regression(L1 regulization)
+       ---4.Elastic Regression
