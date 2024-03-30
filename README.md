@@ -8,7 +8,7 @@
   
     --Plotly
   
-### 2.Dat Preprocessing
+### 2.Data Preprocessing
     1.Data cleaning
     2.Handeling Missing values
     3.Handeling Categorical Values
