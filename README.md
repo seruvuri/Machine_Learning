@@ -14,7 +14,9 @@
     6.Feature Scaling
     7.Feature Transformation
     8.Dimensionality Reduction.
-
+### 3. Model Trainig
+### 4. Model Evaluation
+### 5. Model Deployement
         
 ### Machine Learning Algorithms
 #### Supervised Learning 
