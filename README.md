@@ -17,6 +17,7 @@
 ### 3. Model Trainig
 ### 4. Model Evaluation
 ### 5. Model Deployement
+### 6.Monitoring and Maintenance
         
 ### Machine Learning Algorithms
 #### Supervised Learning 
