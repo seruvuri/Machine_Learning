@@ -37,3 +37,7 @@
     9. Decission Tree.
     10.Ensemble Techniques.
       ->Bagging and Boosting Algorithms
+
+      Bagging Algorithms
+
+      1. Random Forest.
