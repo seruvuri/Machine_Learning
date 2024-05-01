@@ -41,3 +41,7 @@
       Bagging Algorithms
 
       1. Random Forest.
+
+      Boosting Algorithms
+
+      1. Xgboost 
