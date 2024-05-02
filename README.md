@@ -44,4 +44,5 @@
 
       Boosting Algorithms
 
-      1. Xgboost 
+      1. Xgboost.
+      2. Adaboost.
